@@ -260,4 +260,13 @@ The goal is:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/sharma-mradul/DSA-Journey/tree/main/0001-two-sum/) | Easy |
+| [0424-longest-repeating-character-replacement](https://github.com/sharma-mradul/DSA-Journey/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/sharma-mradul/DSA-Journey/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/sharma-mradul/DSA-Journey/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 <!---LeetCode Topics End-->

@@ -249,3 +249,15 @@ The goal is:
 ⭐ If you find this journey interesting, feel free to explore the repository!
 
 </p>
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/sharma-mradul/DSA-Journey/tree/main/0001-two-sum/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/sharma-mradul/DSA-Journey/tree/main/0001-two-sum/) | Easy |
+<!---LeetCode Topics End-->

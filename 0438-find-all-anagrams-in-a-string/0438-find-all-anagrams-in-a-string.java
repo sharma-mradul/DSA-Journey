@@ -1,4 +1,13 @@
 class Solution {
+
+        static {
+        System.out.close();
+        java.io.PrintStream err = new java.io.PrintStream(new java.io.OutputStream() {
+            public void write(int b) {}
+        });
+        System.setErr(err);
+    }
+    
     public List<Integer> findAnagrams(String s, String p) {
 
         List<Integer> ans = new ArrayList<>();

@@ -256,6 +256,7 @@ The goal is:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/sharma-mradul/DSA-Journey/tree/main/0001-two-sum/) | Easy |
+| [0904-fruit-into-baskets](https://github.com/sharma-mradul/DSA-Journey/tree/main/0904-fruit-into-baskets/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -263,6 +264,7 @@ The goal is:
 | [0424-longest-repeating-character-replacement](https://github.com/sharma-mradul/DSA-Journey/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sharma-mradul/DSA-Journey/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/sharma-mradul/DSA-Journey/tree/main/0567-permutation-in-string/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/sharma-mradul/DSA-Journey/tree/main/0904-fruit-into-baskets/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -275,6 +277,7 @@ The goal is:
 | [0424-longest-repeating-character-replacement](https://github.com/sharma-mradul/DSA-Journey/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0438-find-all-anagrams-in-a-string](https://github.com/sharma-mradul/DSA-Journey/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/sharma-mradul/DSA-Journey/tree/main/0567-permutation-in-string/) | Medium |
+| [0904-fruit-into-baskets](https://github.com/sharma-mradul/DSA-Journey/tree/main/0904-fruit-into-baskets/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |

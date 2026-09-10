@@ -1,3 +1,4 @@
+import java.util.*;
 class Solution {
     public int totalFruit(int[] fruits) {
         HashMap<Integer , Integer> map = new HashMap<>();
@@ -8,7 +9,7 @@ class Solution {
         {
             if(map.containsKey(fruits[right]))
             {
-                map.put(fruits[right] , map.get(fruits[right]) + 1); 
+                map.put(fruits[right] , map.get(fruits[right]) + 1);
             }
             else
             {
@@ -17,11 +18,11 @@ class Solution {
 
             while(map.size() > 2)
             {
-                map.put(fruits[left] , map.get(fruits[left]) -1);
-
-                if(map.get(fruits[left]) == 0)
+                int fruit = fruits[left];
+                map.put(fruit , map.get(fruit) - 1);
+                if(map.get(fruit) == 0)
                 {
-                    map.remove(fruits[left]);
+                    map.remove(fruit);
                 }
                 left++;
             }
@@ -30,3 +31,5 @@ class Solution {
         return maximum;
     }
 }
+
+

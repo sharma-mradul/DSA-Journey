@@ -258,6 +258,7 @@ The goal is:
 | [0001-two-sum](https://github.com/sharma-mradul/DSA-Journey/tree/main/0001-two-sum/) | Easy |
 | [0713-subarray-product-less-than-k](https://github.com/sharma-mradul/DSA-Journey/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/sharma-mradul/DSA-Journey/tree/main/0904-fruit-into-baskets/) | Medium |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sharma-mradul/DSA-Journey/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -280,6 +281,7 @@ The goal is:
 | [0567-permutation-in-string](https://github.com/sharma-mradul/DSA-Journey/tree/main/0567-permutation-in-string/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/sharma-mradul/DSA-Journey/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/sharma-mradul/DSA-Journey/tree/main/0904-fruit-into-baskets/) | Medium |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sharma-mradul/DSA-Journey/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -292,4 +294,5 @@ The goal is:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/sharma-mradul/DSA-Journey/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sharma-mradul/DSA-Journey/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 <!---LeetCode Topics End-->

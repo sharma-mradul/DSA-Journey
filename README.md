@@ -257,6 +257,7 @@ The goal is:
 | ------- | ------- |
 | [0001-two-sum](https://github.com/sharma-mradul/DSA-Journey/tree/main/0001-two-sum/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/sharma-mradul/DSA-Journey/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sharma-mradul/DSA-Journey/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/sharma-mradul/DSA-Journey/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sharma-mradul/DSA-Journey/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/sharma-mradul/DSA-Journey/tree/main/0713-subarray-product-less-than-k/) | Medium |
@@ -299,6 +300,7 @@ The goal is:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/sharma-mradul/DSA-Journey/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
+| [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sharma-mradul/DSA-Journey/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/sharma-mradul/DSA-Journey/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sharma-mradul/DSA-Journey/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/sharma-mradul/DSA-Journey/tree/main/0713-subarray-product-less-than-k/) | Medium |

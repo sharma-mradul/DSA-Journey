@@ -262,6 +262,7 @@ The goal is:
 | [0074-search-a-2d-matrix](https://github.com/sharma-mradul/DSA-Journey/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sharma-mradul/DSA-Journey/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/sharma-mradul/DSA-Journey/tree/main/0162-find-peak-element/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/sharma-mradul/DSA-Journey/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/sharma-mradul/DSA-Journey/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/sharma-mradul/DSA-Journey/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/sharma-mradul/DSA-Journey/tree/main/0904-fruit-into-baskets/) | Medium |
@@ -330,8 +331,17 @@ The goal is:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/sharma-mradul/DSA-Journey/tree/main/0056-merge-intervals/) | Medium |
+| [0435-non-overlapping-intervals](https://github.com/sharma-mradul/DSA-Journey/tree/main/0435-non-overlapping-intervals/) | Medium |
 ## Quicksort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/sharma-mradul/DSA-Journey/tree/main/0056-merge-intervals/) | Medium |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0435-non-overlapping-intervals](https://github.com/sharma-mradul/DSA-Journey/tree/main/0435-non-overlapping-intervals/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0435-non-overlapping-intervals](https://github.com/sharma-mradul/DSA-Journey/tree/main/0435-non-overlapping-intervals/) | Medium |
 <!---LeetCode Topics End-->

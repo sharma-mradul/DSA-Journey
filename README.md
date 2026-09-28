@@ -258,6 +258,7 @@ The goal is:
 | [0001-two-sum](https://github.com/sharma-mradul/DSA-Journey/tree/main/0001-two-sum/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/sharma-mradul/DSA-Journey/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sharma-mradul/DSA-Journey/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0045-jump-game-ii](https://github.com/sharma-mradul/DSA-Journey/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/sharma-mradul/DSA-Journey/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/sharma-mradul/DSA-Journey/tree/main/0056-merge-intervals/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/sharma-mradul/DSA-Journey/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -343,12 +344,14 @@ The goal is:
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0045-jump-game-ii](https://github.com/sharma-mradul/DSA-Journey/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/sharma-mradul/DSA-Journey/tree/main/0055-jump-game/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/sharma-mradul/DSA-Journey/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/sharma-mradul/DSA-Journey/tree/main/0435-non-overlapping-intervals/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0045-jump-game-ii](https://github.com/sharma-mradul/DSA-Journey/tree/main/0045-jump-game-ii/) | Medium |
 | [0055-jump-game](https://github.com/sharma-mradul/DSA-Journey/tree/main/0055-jump-game/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/sharma-mradul/DSA-Journey/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/sharma-mradul/DSA-Journey/tree/main/0435-non-overlapping-intervals/) | Medium |

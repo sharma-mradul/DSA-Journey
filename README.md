@@ -262,6 +262,7 @@ The goal is:
 | [0055-jump-game](https://github.com/sharma-mradul/DSA-Journey/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/sharma-mradul/DSA-Journey/tree/main/0056-merge-intervals/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/sharma-mradul/DSA-Journey/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0084-largest-rectangle-in-histogram](https://github.com/sharma-mradul/DSA-Journey/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sharma-mradul/DSA-Journey/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0135-candy](https://github.com/sharma-mradul/DSA-Journey/tree/main/0135-candy/) | Hard |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/sharma-mradul/DSA-Journey/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
@@ -364,9 +365,15 @@ The goal is:
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/sharma-mradul/DSA-Journey/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0739-daily-temperatures](https://github.com/sharma-mradul/DSA-Journey/tree/main/0739-daily-temperatures/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/sharma-mradul/DSA-Journey/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0739-daily-temperatures](https://github.com/sharma-mradul/DSA-Journey/tree/main/0739-daily-temperatures/) | Medium |
+## Range Minimum/Maximum Query
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0084-largest-rectangle-in-histogram](https://github.com/sharma-mradul/DSA-Journey/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 <!---LeetCode Topics End-->

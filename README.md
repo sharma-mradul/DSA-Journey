@@ -273,6 +273,7 @@ The goal is:
 | [0739-daily-temperatures](https://github.com/sharma-mradul/DSA-Journey/tree/main/0739-daily-temperatures/) | Medium |
 | [0875-koko-eating-bananas](https://github.com/sharma-mradul/DSA-Journey/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/sharma-mradul/DSA-Journey/tree/main/0904-fruit-into-baskets/) | Medium |
+| [0907-sum-of-subarray-minimums](https://github.com/sharma-mradul/DSA-Journey/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/sharma-mradul/DSA-Journey/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/sharma-mradul/DSA-Journey/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sharma-mradul/DSA-Journey/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
@@ -353,6 +354,7 @@ The goal is:
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/sharma-mradul/DSA-Journey/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/sharma-mradul/DSA-Journey/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/sharma-mradul/DSA-Journey/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0907-sum-of-subarray-minimums](https://github.com/sharma-mradul/DSA-Journey/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -367,11 +369,13 @@ The goal is:
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/sharma-mradul/DSA-Journey/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0739-daily-temperatures](https://github.com/sharma-mradul/DSA-Journey/tree/main/0739-daily-temperatures/) | Medium |
+| [0907-sum-of-subarray-minimums](https://github.com/sharma-mradul/DSA-Journey/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/sharma-mradul/DSA-Journey/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0739-daily-temperatures](https://github.com/sharma-mradul/DSA-Journey/tree/main/0739-daily-temperatures/) | Medium |
+| [0907-sum-of-subarray-minimums](https://github.com/sharma-mradul/DSA-Journey/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 ## Range Minimum/Maximum Query
 | Problem Name | Difficulty |
 | ------- | ------- |

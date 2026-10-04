@@ -256,6 +256,7 @@ The goal is:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/sharma-mradul/DSA-Journey/tree/main/0001-two-sum/) | Easy |
+| [0004-median-of-two-sorted-arrays](https://github.com/sharma-mradul/DSA-Journey/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0033-search-in-rotated-sorted-array](https://github.com/sharma-mradul/DSA-Journey/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sharma-mradul/DSA-Journey/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0045-jump-game-ii](https://github.com/sharma-mradul/DSA-Journey/tree/main/0045-jump-game-ii/) | Medium |
@@ -313,6 +314,7 @@ The goal is:
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sharma-mradul/DSA-Journey/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0033-search-in-rotated-sorted-array](https://github.com/sharma-mradul/DSA-Journey/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sharma-mradul/DSA-Journey/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/sharma-mradul/DSA-Journey/tree/main/0074-search-a-2d-matrix/) | Medium |
@@ -380,4 +382,8 @@ The goal is:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/sharma-mradul/DSA-Journey/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/sharma-mradul/DSA-Journey/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 <!---LeetCode Topics End-->

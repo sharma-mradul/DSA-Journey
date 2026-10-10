@@ -258,6 +258,7 @@ The goal is:
 | [0001-two-sum](https://github.com/sharma-mradul/DSA-Journey/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/sharma-mradul/DSA-Journey/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0016-3sum-closest](https://github.com/sharma-mradul/DSA-Journey/tree/main/0016-3sum-closest/) | Medium |
+| [0018-4sum](https://github.com/sharma-mradul/DSA-Journey/tree/main/0018-4sum/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/sharma-mradul/DSA-Journey/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/sharma-mradul/DSA-Journey/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0045-jump-game-ii](https://github.com/sharma-mradul/DSA-Journey/tree/main/0045-jump-game-ii/) | Medium |
@@ -312,6 +313,7 @@ The goal is:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0016-3sum-closest](https://github.com/sharma-mradul/DSA-Journey/tree/main/0016-3sum-closest/) | Medium |
+| [0018-4sum](https://github.com/sharma-mradul/DSA-Journey/tree/main/0018-4sum/) | Medium |
 | [0567-permutation-in-string](https://github.com/sharma-mradul/DSA-Journey/tree/main/0567-permutation-in-string/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -345,6 +347,7 @@ The goal is:
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0016-3sum-closest](https://github.com/sharma-mradul/DSA-Journey/tree/main/0016-3sum-closest/) | Medium |
+| [0018-4sum](https://github.com/sharma-mradul/DSA-Journey/tree/main/0018-4sum/) | Medium |
 | [0056-merge-intervals](https://github.com/sharma-mradul/DSA-Journey/tree/main/0056-merge-intervals/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/sharma-mradul/DSA-Journey/tree/main/0435-non-overlapping-intervals/) | Medium |
 ## Quicksort
